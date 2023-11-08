@@ -25,4 +25,5 @@ public class Steel
 			System.out.println("gr is 5");
 		
 	}
+System.out.println("gr is 5");
 }
