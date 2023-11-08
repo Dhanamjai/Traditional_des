@@ -22,7 +22,7 @@ public class Steel
 		else if(tensile_strength >5600)
 			System.out.println("grade is 7");
 		else
-			System.out.println("grade is 5");
+			System.out.println("gr is 5");
 		
 	}
 }

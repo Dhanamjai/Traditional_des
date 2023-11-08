@@ -31,7 +31,7 @@ public class Discount
 		else 
 		{
 			
-			System.out.println("you are not Eligible to dicount buy anything above 1000 rupees ");
+			System.out.println("you are not  to dicount buy anything above 1000 rupees ");
 		}
 		
 	}
